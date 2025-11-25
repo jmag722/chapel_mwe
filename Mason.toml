@@ -1,0 +1,8 @@
+[brick]
+name="Foo"
+version="0.1.0"
+type="library"
+chplVersion="2.4.0"
+
+[tool.chpl-language-server]
+module-dir=["src"]
